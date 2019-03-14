@@ -1,0 +1,13 @@
+/*
+ * Using LESS pattern matching with mixins
+ * 
+ */#mypara {
+  color: #ff3333;
+  border-color: #990000;
+  display: block;
+  border-width: 2px;
+  border-style: solid;
+  padding: 10px;
+}
+
+/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
